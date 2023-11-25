@@ -1,0 +1,23 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    padding: 20px;
+}
+
+.link-items {
+    display: flex;
+    align-items: center;
+    width: 40%;
+    justify-content: space-between;
+}
+
+.website-logo {
+    height: 60px;
+    width: 220px;
+}
+
+.nav-link {
+    text-decoration: none;
+}

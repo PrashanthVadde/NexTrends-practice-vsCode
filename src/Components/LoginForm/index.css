@@ -1,0 +1,19 @@
+.login-form-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    background-color: #e6f6ff;
+    min-height: 100vh;
+}
+
+.website-login-img {
+    height: 300px;
+    width: 500px;
+}
+
+.website-logo {
+    height: 60px;
+    width: 220px;
+}
+
