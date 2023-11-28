@@ -53,6 +53,7 @@ class LoginForm extends Component {
         const { history } = this.props
         history.replace("/")
         console.log("Properties....", this.props)
+        console.log("Success....")
     }
 
     onSubmitFailure = (error_msg) => {
